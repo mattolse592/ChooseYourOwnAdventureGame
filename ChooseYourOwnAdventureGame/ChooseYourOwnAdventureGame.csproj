@@ -125,5 +125,47 @@
   <ItemGroup>
     <None Include="Resources\razorleaf.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\charmanderbiome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arcanine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\litleo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\charmanderfighting.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\litleorunm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pokeball.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\charmanderwin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greninja.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wilhelm Scream sound effect.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lava.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Entei.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WIN sound effect no copyright.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Angel - Sound Effect %28HD%29.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lose - sound effect.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
